@@ -52,6 +52,7 @@ git checkout develop - 2ª paso
 git branch nueva-rama - 3ª paso
 cambio en el archivo
 git push origin nueva-rama
+hola hola
 
 git remote add origin https://TOKEN@github.com/USUARIO-QUE-CREO-EL-REPOSITORIO/NOMBRE-DEL-PROYECTO.git --> Sirve para agregar un repositorio remoto como "origin" con nuestro public access token y poder realizar nuestros push autenticándonos
 git remote set-url origin https://TOKEN@github.com/USUARIO-QUE-CREO-EL-REPOSITORIO/NOMBRE-DEL-PROYECTO.git --> Sirve para cambiar el link del repositorio remoto "origin" si es que ya lo habíamos creado
